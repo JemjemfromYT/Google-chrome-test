@@ -1,0 +1,9 @@
+#chrome-check {
+  text-align: center;
+  font-size: 2em;
+  padding: 50px; /* Add some padding for better visibility */
+}
+
+body {
+  font-family: sans-serif;
+}
